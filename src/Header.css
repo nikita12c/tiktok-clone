@@ -1,0 +1,17 @@
+.header{
+  background-color: rgb(78, 150, 83);
+  padding: 5px 200px;
+  margin-bottom: 5px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  
+}
+.header_ticker{
+  color: rgb(5, 66, 48);
+
+}
+.header >h2{
+color: rgb(5, 66, 48);
+}
